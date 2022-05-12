@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Test checkout readme.txt
 test cherry-pick
 second  test cherry-pick
-
+thried  test cherry-pick
+four test cherry-pick
